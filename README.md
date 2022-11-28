@@ -16,7 +16,7 @@ Tech stack:
 ### Copy this template
 1. Click the big green button `Use this template`
 2. Click `Create a new repository`
-3. This create a new repository containing the files and folders from this repository
+3. This creates a new repository containing the files and folders from this repository
 
 ### Setting things up locally
 1. Open VS Code in the folder where you want to store the project
