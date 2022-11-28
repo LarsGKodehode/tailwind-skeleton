@@ -1,4 +1,7 @@
 # Template for Tailwind
+GitHub Template Repository for a React Tailwind project, react-router comes preinstalled.
+See [TailwindIntro.md](./TailwindIntro.md) for a introduction to Tailwind.
+
 Tech stack:
 - ViteJS as bundler
 - React as UI framework
@@ -8,7 +11,7 @@ Tech stack:
 - [ViteJS](https://vitejs.dev/guide/)
 - [React Docs Beta](https://beta.reactjs.org/)
 - [React Docs](https://reactjs.org/docs/getting-started.html)
-- [React-Router](https://reactrouter.com/en/main)
+- [React-Router](https://reactrouter.com/en/main/start/tutorial)
 - [Tailwind](https://tailwindcss.com/docs/guides/vite)
 - [Tailwind Cheat Sheat](https://nerdcave.com/tailwind-cheat-sheet)
 
@@ -21,5 +24,8 @@ Tech stack:
 ### Setting things up locally
 1. Open VS Code in the folder where you want to store the project
 2. Open the terminal inside VS Code
-3. ```git clone <REPO_URL>```
-4. Happy coding!
+3. run ```git clone <REPO_URL>```
+4. Open the newly created folder in VS Code
+5. run ```npm install```
+6. run ```npm run dev```
+7. Happy coding!
