@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "bradlc.vscode-tailwindcss",
-    "simonsiefke.prettier-vscode"
+    "simonsiefke.prettier-vscode",
+    "heybourn.headwind"
   ]
 }
