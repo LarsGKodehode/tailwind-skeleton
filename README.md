@@ -25,7 +25,7 @@ Tech stack:
 1. Open VS Code in the folder where you want to store the project
 2. Open the terminal inside VS Code
 3. run ```git clone <REPO_URL>```
-4. Open the newly created folder in VS Code
+4. Open the newly created folder in VS Code, or `cd` into it
 5. run ```npm install```
 6. run ```npm run dev```
 7. Happy coding!
