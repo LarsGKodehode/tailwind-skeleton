@@ -29,4 +29,8 @@ Tech stack:
 5. run ```npm install```
 6. run ```npm run dev``` to start the development server
 
+### Deploy your project
+Uses [gh-pages](https://www.npmjs.com/package/gh-pages) for deploying
+`npm run deploy`
+
 Now you can build upon or tear everything down as you pleases.
