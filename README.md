@@ -27,5 +27,6 @@ Tech stack:
 3. run ```git clone <REPO_URL>```
 4. Open the newly created folder in VS Code, or `cd` into it
 5. run ```npm install```
-6. run ```npm run dev```
-7. Happy coding!
+6. run ```npm run dev``` to start the development server
+
+Now you can build upon or tear everything down as you pleases.
